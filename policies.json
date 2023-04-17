@@ -1,0 +1,28 @@
+{
+   "chromeMetadata": {
+      "OS": "Windows 10 Version 21H1 (Build 19043.2364)",
+      "application": "Microsoft Edge",
+      "revision": "d0924f8b9cb98fefc118ffd258a343383cf7cecc",
+      "version": "112.0.1722.48 (Offizielles Build)  (64-Bit)"
+   },
+   "edgePolicies": {
+      "InPrivateModeAvailability": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 0
+      }
+   },
+   "extensionPolicies": {
+   },
+   "status": {
+      "updater": {
+         "domain": "callpex.int",
+         "policyDescriptionKey": "statusUpdater",
+         "timeSinceLastRefresh": "vor 2 Stunden",
+         "version": "1.3.173.55"
+      },
+      "user": {
+      }
+   }
+}
